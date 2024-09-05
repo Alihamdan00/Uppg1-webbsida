@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+
+} 
+
+p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(255, 115, 0);
+    font-size: 1.12rem;
+
+}
+
+ h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.7rem;
+    color:rgba(0, 0, 0, 0.645);
+
+ }
+
+ img{
+    width: 400px;
+     max-width: 50vh;
+
+ }
+
